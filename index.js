@@ -2,7 +2,7 @@ function getFirstSelector(elm){
   return document.querySelector(elm);
 }
 
-function nestedTartget(){
+function nestedTarget(){
   return document.querySelector('#nested .target')
 }
 
